@@ -1,0 +1,11 @@
+name = Carusel
+description = This is carusel....
+core = 7.x
+dependencies[] = block
+package = Views
+version = 0.1
+
+stylesheets[all][] = css/bootstrap.min.css
+stylesheets[all][] = css/carusel.css
+
+scripts[] = js/bootstrap.min.js
